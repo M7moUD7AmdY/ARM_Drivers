@@ -7,7 +7,7 @@
 #include "NVIC_Interface.h"
 #include "EXTI_Interface.h"
 #include "SSD_Interface.h"
-#include "Dot_Matrix_Interface.h"
+#include "HDot_Matrix_Interface.h"
 
 
  u8 GLOB_u8DataArr[88] = {
